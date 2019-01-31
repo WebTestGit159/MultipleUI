@@ -14,6 +14,10 @@ namespace DomainModel
         {
             // master method
         }
+        public void mastermethod2()
+        {
+            // master method2
+        }
     }
 
 
