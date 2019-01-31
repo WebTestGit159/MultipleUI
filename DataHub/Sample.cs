@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace DataHub
 {
-    public class Class1
+    public class Sample
     {
-        public void test()
+        public string abc()
         {
-            var a = "";
-        }
-        public void testb()
-        {
-            var a = "testb";
+            return "aaaa";
         }
     }
 }
