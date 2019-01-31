@@ -9,5 +9,12 @@ namespace DomainModel
     class MasterA
     {
         //test
+
+        public void mastermethod()
+        {
+            // master method
+        }
     }
+
+
 }
