@@ -8,6 +8,7 @@ namespace DataHub
 {
     public class Class1
     {
+// add
         public void test()
         {
             var a = "";
