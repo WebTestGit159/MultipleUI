@@ -8,8 +8,5 @@ namespace DataHub
 {
     class Class2
     {
-public void abc(){
-// test
-}
     }
 }

@@ -8,14 +8,11 @@ namespace DataHub
 {
     public class Class1
     {
-// add
-        public void test()
-        {
-            var a = "";
-        }
-        public void testb()
-        {
-            var a = "testb";
-        }
+        // child test
+
+       public void child(){
+          //child
+       }
     }
+    
 }
